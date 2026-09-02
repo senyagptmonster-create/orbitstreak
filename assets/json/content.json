@@ -1,0 +1,36 @@
+{
+  "habits": [
+    {
+      "id": "h1",
+      "name": "Утренняя зарядка",
+      "planetColor": "#8AB4FF",
+      "icon": "fitness_center",
+      "targetDays": 7,
+      "completedDaysAgo": [0, 1, 2, 3, 4]
+    },
+    {
+      "id": "h2",
+      "name": "Чтение книги 20м",
+      "planetColor": "#FFB4C8",
+      "icon": "menu_book",
+      "targetDays": 5,
+      "completedDaysAgo": [0, 1, 3]
+    },
+    {
+      "id": "h3",
+      "name": "Пить 2 литра воды",
+      "planetColor": "#7EE787",
+      "icon": "water_drop",
+      "targetDays": 7,
+      "completedDaysAgo": [0, 1, 2, 4, 5]
+    },
+    {
+      "id": "h4",
+      "name": "Кодинг пет-проекта",
+      "planetColor": "#D2A8FF",
+      "icon": "code",
+      "targetDays": 4,
+      "completedDaysAgo": [1, 2]
+    }
+  ]
+}
